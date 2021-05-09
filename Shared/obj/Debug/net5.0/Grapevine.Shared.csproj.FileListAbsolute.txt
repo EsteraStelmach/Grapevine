@@ -22,3 +22,15 @@ C:\Users\pvanderleur\Desktop\Test\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Sh
 C:\Users\pvanderleur\Desktop\Test\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.dll
 C:\Users\pvanderleur\Desktop\Test\Grapevine\Shared\obj\Debug\net5.0\ref\Grapevine.Shared.dll
 C:\Users\pvanderleur\Desktop\Test\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.pdb
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\bin\Debug\net5.0\Grapevine.Shared.deps.json
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\bin\Debug\net5.0\Grapevine.Shared.dll
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\bin\Debug\net5.0\ref\Grapevine.Shared.dll
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\bin\Debug\net5.0\Grapevine.Shared.pdb
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.csprojAssemblyReference.cache
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.AssemblyInfoInputs.cache
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.AssemblyInfo.cs
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.csproj.CoreCompileInputs.cache
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.dll
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\ref\Grapevine.Shared.dll
+C:\Users\eStelmach\privateProjects\Grapevine\Shared\obj\Debug\net5.0\Grapevine.Shared.pdb

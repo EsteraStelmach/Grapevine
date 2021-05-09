@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\pvanderleur\Desktop\Test\Grapevine\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\pvanderleur\Desktop\Test\Grapevine\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\eStelmach\privateProjects\Grapevine\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\eStelmach\privateProjects\Grapevine\Client\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>
