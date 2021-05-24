@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\eStelmach\privateProjects\Grapevine\Client\bin\Release\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\eStelmach\privateProjects\Grapevine\Client\obj\Release\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\eStelmach\privateProjects\Grapevine\Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\eStelmach\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.6\build\..\staticwebassets\" />
+</StaticWebAssets>

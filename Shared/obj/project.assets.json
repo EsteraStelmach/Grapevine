@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eStelmach\\source\\repos\\Grapevine\\Shared\\Grapevine.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\eStelmach\\privateProjects\\Grapevine\\Shared\\Grapevine.Shared.csproj",
       "projectName": "Grapevine.Shared",
-      "projectPath": "C:\\Users\\eStelmach\\source\\repos\\Grapevine\\Shared\\Grapevine.Shared.csproj",
+      "projectPath": "C:\\Users\\eStelmach\\privateProjects\\Grapevine\\Shared\\Grapevine.Shared.csproj",
       "packagesPath": "C:\\Users\\eStelmach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eStelmach\\source\\repos\\Grapevine\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\eStelmach\\privateProjects\\Grapevine\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
